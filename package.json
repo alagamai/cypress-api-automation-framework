@@ -1,0 +1,19 @@
+{
+  "name": "cypress-api-automation-framework",
+  "version": "1.0.0",
+  "description": "Rest API testing using Cypress framework",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open",
+    "cy:test": "npx cypress run --browser 'chrome' --headed --record --key 66f4d6d0-2b3c-49e1-aec1-6bad59590a3c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  }
+}
