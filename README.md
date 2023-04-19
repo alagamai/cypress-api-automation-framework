@@ -8,6 +8,10 @@ VSCode: https://code.visualstudio.com/download </br>
 NPM: https://www.npmjs.com/get-npm </br>
 NodeJS: https://nodejs.org/en/download
 
+# Screenshots
+![Alt text](https://github.com/alagamai/cypress-api-automation-framework/blob/main/cypress/images/cypress-cloud-runner-report.png "cypress-cloud-runner-report")
+
+
 ## Use
 
 1. Checkout the project from git
