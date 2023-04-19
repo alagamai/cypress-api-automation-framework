@@ -23,3 +23,11 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('checkResponseStatus', (statusCode, expStatus) =>  {
+    expect(statusCode).to.equal(expStatus)
+})
+
+Cypress.Commands.add('printResponseBody', (data) =>  {
+    cy.task("log", JSON.stringify(data))
+})

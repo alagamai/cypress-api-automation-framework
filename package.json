@@ -14,6 +14,7 @@
     "@faker-js/faker": "^7.6.0"
   },
   "devDependencies": {
-    "cypress": "^12.10.0"
+    "cypress": "^12.10.0",
+    "cypress-mongo-seeder": "^1.0.8"
   }
 }
