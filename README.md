@@ -9,7 +9,10 @@ NPM: https://www.npmjs.com/get-npm </br>
 NodeJS: https://nodejs.org/en/download
 
 # Screenshots
-![Alt text](https://github.com/alagamai/cypress-api-automation-framework/blob/main/cypress/images/cypress-cloud-runner-report.png "cypress-cloud-runner-report")
+![cypress-cloud-runner-report](https://github.com/alagamai/cypress-api-automation-framework/blob/main/cypress/images/cypress-cloud-runner-report.png "cypress-cloud-runner-report")
+![cypress-cloud-runner-view-report](https://github.com/alagamai/cypress-api-automation-framework/blob/main/cypress/images/cloud-runner-view-output.png "cypress-cloud-runner-view-report")
+![cypress-test-runner-report1](https://github.com/alagamai/cypress-api-automation-framework/blob/main/cypress/images/cypress-test-runner-gui1.png "cypress-test-runner-report1")
+![cypress-cloud-runner-report2](https://github.com/alagamai/cypress-api-automation-framework/blob/main/cypress/images/cypress-test-runner-gui2.png "cypress-cloud-runner-report2")
 
 
 ## Use
